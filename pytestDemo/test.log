@@ -1,0 +1,66 @@
+2024-04-24 19:05:52,174: INFO: test_fixture: hello workd
+2024-04-24 19:06:42,161: INFO: test_fixture: Hello world , this is Bob and url is https://www.google.com/
+2024-04-24 22:22:18,828: INFO: pytestDemo.test_fixture_Data: Hello world , this is Bob and url is https://www.google.com/
+2024-04-24 22:22:57,881: INFO: pytestDemo.test_fixture_Data: Hello world , this is Bob and url is https://www.google.com/
+2024-04-24 22:23:11,067: INFO: pytestDemo.test_fixture_Data: Hello world , this is Bob and url is https://www.google.com/
+2024-04-24 22:24:37,566: INFO: pytestDemo.test_fixture_Data: Hello world , this is Bob and url is https://www.google.com/
+2024-05-30 17:47:08,692: INFO: pytestDemo.test_fixture_Data: Hello world , this is Bob and url is https://www.google.com/
+2024-05-30 17:47:08,721: INFO : test_logging : this is info
+2024-05-30 17:47:08,721: WARNING : test_logging : this is warning level
+2024-05-30 17:47:08,722: ERROR : test_logging : This is error level
+2024-06-13 18:04:09,406: INFO: pytestDemo.test_fixture_Data: Hello world , this is Bob and url is https://www.google.com/
+2024-06-13 18:04:09,428: INFO : test_logging : this is info
+2024-06-13 18:04:09,429: WARNING : test_logging : this is warning level
+2024-06-13 18:04:09,429: ERROR : test_logging : This is error level
+2024-06-13 18:05:47,885: INFO: pytestDemo.test_fixture_Data: Hello world , this is Bob and url is https://www.google.com/
+2024-06-13 18:05:47,895: INFO : test_logging : this is info
+2024-06-13 18:05:47,896: WARNING : test_logging : this is warning level
+2024-06-13 18:05:47,896: ERROR : test_logging : This is error level
+2024-06-13 18:06:45,211: INFO: pytestDemo.test_fixture_Data: Hello world , this is Bob and url is https://www.google.com/
+2024-06-13 18:06:45,221: INFO : test_logging : this is info
+2024-06-13 18:06:45,221: WARNING : test_logging : this is warning level
+2024-06-13 18:06:45,221: ERROR : test_logging : This is error level
+2024-06-14 10:28:09,865: INFO: pytestDemo.test_fixture_Data: Hello world , this is Bob and url is https://www.google.com/
+2024-06-14 10:28:09,879: INFO : test_logging : this is info
+2024-06-14 10:28:09,879: WARNING : test_logging : this is warning level
+2024-06-14 10:28:09,880: ERROR : test_logging : This is error level
+2024-06-14 15:38:25,766: INFO: pytestDemo.test_fixture_Data: Hello world , this is Bob and url is https://www.google.com/
+2024-06-14 15:38:25,779: INFO : test_logging : this is info
+2024-06-14 15:38:25,779: WARNING : test_logging : this is warning level
+2024-06-14 15:38:25,779: ERROR : test_logging : This is error level
+2024-06-14 15:42:59,911: INFO: pytestDemo.test_fixture_Data: Hello world , this is Bob and url is https://www.google.com/
+2024-06-14 15:42:59,925: INFO : test_logging : this is info
+2024-06-14 15:42:59,925: WARNING : test_logging : this is warning level
+2024-06-14 15:42:59,926: ERROR : test_logging : This is error level
+2024-06-14 15:44:53,381: INFO: pytestDemo.test_fixture_Data: Hello world , this is Bob and url is https://www.google.com/
+2024-06-14 15:44:53,393: INFO : test_logging : this is info
+2024-06-14 15:44:53,393: WARNING : test_logging : this is warning level
+2024-06-14 15:44:53,393: ERROR : test_logging : This is error level
+2024-06-14 15:45:22,165: INFO: pytestDemo.test_fixture_Data: Hello world , this is Bob and url is https://www.google.com/
+2024-06-14 15:45:22,177: INFO : test_logging : this is info
+2024-06-14 15:45:22,178: WARNING : test_logging : this is warning level
+2024-06-14 15:45:22,178: ERROR : test_logging : This is error level
+2024-06-14 15:45:25,481: INFO: pytestDemo.test_fixture_Data: Hello world , this is Bob and url is https://www.google.com/
+2024-06-14 15:45:25,499: INFO : test_logging : this is info
+2024-06-14 15:45:25,500: WARNING : test_logging : this is warning level
+2024-06-14 15:45:25,500: ERROR : test_logging : This is error level
+2024-06-14 15:45:26,794: INFO: pytestDemo.test_fixture_Data: Hello world , this is Bob and url is https://www.google.com/
+2024-06-14 15:45:26,810: INFO : test_logging : this is info
+2024-06-14 15:45:26,810: WARNING : test_logging : this is warning level
+2024-06-14 15:45:26,811: ERROR : test_logging : This is error level
+2024-06-14 15:45:27,925: INFO: pytestDemo.test_fixture_Data: Hello world , this is Bob and url is https://www.google.com/
+2024-06-14 15:45:27,938: INFO : test_logging : this is info
+2024-06-14 15:45:27,938: WARNING : test_logging : this is warning level
+2024-06-14 15:45:27,938: ERROR : test_logging : This is error level
+2024-06-14 17:08:24,420: INFO: pytestDemo.test_fixture_Data: Hello world , this is Bob and url is https://www.google.com/
+2024-06-14 17:08:24,447: INFO : test_logging : this is info
+2024-06-14 17:08:24,448: WARNING : test_logging : this is warning level
+2024-06-14 17:08:24,448: ERROR : test_logging : This is error level
+2024-06-14 17:08:34,823: INFO: pytestDemo.test_fixture_Data: Hello world , this is Bob and url is https://www.google.com/
+2024-06-14 17:08:34,861: INFO : test_logging : this is info
+2024-06-14 17:08:34,862: WARNING : test_logging : this is warning level
+2024-06-14 17:08:34,862: ERROR : test_logging : This is error level
+2024-06-14 17:10:17,784: INFO: pytestDemo.test_fixture_Data: Hello world , this is Bob and url is https://www.google.com/
+2024-06-14 17:10:17,792: INFO : test_logging : this is info
+2024-06-14 17:10:17,792: WARNING : test_logging : this is warning level
+2024-06-14 17:10:17,792: ERROR : test_logging : This is error level
